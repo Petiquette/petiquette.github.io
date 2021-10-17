@@ -16,7 +16,7 @@ We know from personal experience the emotional rollercoaster it can be to raise 
 
 “Help humans bond and evolve with their furry companions in a compassionate and mutually beneficial manner towards an exciting future.”
 
-Have you ever watched Samurai Jack?  We foresee a future where, through evolution and technology, dogs are seen as equals to humans.  We want to help society make progress towards this exciting future.
+Have you ever watched [Samurai Jack][samurai-jack-canines]?  We foresee a future where, through evolution and technology, dogs are seen as equals to humans.  We want to help society make progress towards this exciting future.
 
 We hope that through our shared experiences, everyone can gain a valuable insight into understanding their dogs and their needs. After we begin to understand how our dogs communicate with us, we can in turn learn a lot about ourselves. By observing our dogs, we can learn to be mindful of our emotions and body language as dogs will always reflect back to us how we come across to others.
 
@@ -31,3 +31,5 @@ We hope that through our shared experiences, everyone can gain a valuable insigh
 - Privacy
 - Talk less, observe more
 - Transparency
+
+[samurai-jack-canines]: https://samuraijack.fandom.com/wiki/The_Canine_Archaeologists
