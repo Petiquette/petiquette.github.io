@@ -21,7 +21,7 @@
 title: Petiquette
 email: hello@petiquette.dog
 description: >- # this means to ignore newlines until "baseurl:"
-  Articles relating to dogs.
+  Dog training
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://petiquette.dog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
