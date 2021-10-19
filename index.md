@@ -5,8 +5,13 @@
 layout: home
 ---
 
-Welcome to our dog blog!  We are just getting started and so lack much
-content at the moment, but feel free to read [About Us](/about) in the
-meantime and check again in the future!
+Welcome to our dog blog!
 
-Feel free to email us with any questions or feedback!
+We are just getting started, so we apologize for our lack of content at
+the moment.  In the meantime, [read about us](/about) to get more
+familiar with what we plan to offer and consider checking back again in
+the future.
+
+Feel free to [email us][email] with any questions or feedback!
+
+[email]: mailto:{{ site.email }}
