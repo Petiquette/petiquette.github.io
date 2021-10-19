@@ -4,8 +4,6 @@ title: About
 permalink: /about
 ---
 
-Welcome to our dog blog!
-
 # Our Story
 
 We are a couple living in Greater Los Angeles.  By the end of 2014, we had two Australian Cattle Dogs (ACDs), Kira and Dino. Over the course of 7 years, we lived in small apartments to big houses. From the suburbs to the city. What have we learned? No matter the living situation, an ACD will always need a job, designated play time, and plenty of rest. As the saying goes, a tired dog is a good dog.
